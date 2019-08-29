@@ -1,0 +1,28 @@
+{
+  "name": "com.salam.memespool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaiksalam9182/MemesPoolFrontEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaiksalam9182/MemesPoolFrontEnd/issues"
+  },
+  "homepage": "https://github.com/shaiksalam9182/MemesPoolFrontEnd#readme",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.22",
+    "angular": "^1.7.8",
+    "angular-animate": "^1.7.8",
+    "angular-aria": "^1.7.8",
+    "angular-material": "^1.1.20",
+    "angular-messages": "^1.7.8",
+    "angular-route": "^1.7.8"
+  }
+}
